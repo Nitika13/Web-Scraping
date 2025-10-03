@@ -1,1 +1,2 @@
-## these scripts are written using BeautifulSoup, a python library used to scrap static websites. 
+## these scripts are written in python and BeautifulSoup, a python library used to scrap static websites. Shows implementation from parsing to fetching to scraping.
+
